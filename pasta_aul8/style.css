@@ -1,0 +1,21 @@
+.card{
+    width: 300px;
+    background: rgb(255, 174, 23);
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+
+.imagem{
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.botao{
+    width: 300px;
+    height: 30px;
+    border-radius:8px;
+    background: rgb(119, 207, 248);
+    cursor: pointer;
+}
